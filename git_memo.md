@@ -2,9 +2,11 @@
 ## normal git
 ### edit on LOCAL
 - git clone https://github.com/ynakanish/test.git
-copy from remote 
+
+	copy from remote 
 
 - git log
+
 view commit log
 
 ** edit your files **
