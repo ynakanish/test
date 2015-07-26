@@ -1,10 +1,10 @@
 # how to git
 ## normal git
 ### edit on LOCAL
-git clone https://github.com/ynakanish/test.git
-	copy from remote 
+- git clone https://github.com/ynakanish/test.git
+ copy from remote 
 
-git log
+- git log
 	view commit log
 
 ** edit your files **
@@ -41,11 +41,5 @@ git flow feature publish <feature name>
 
 git flow feature pull origin <feature name>
 	pull from REMOTE repository
-
-
-	
-	
-	
-
 
 
