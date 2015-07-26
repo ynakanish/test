@@ -13,7 +13,7 @@
 
 	** edit your files **
 
-- git add README.md
+- git add <file>
 
 	add to commit list
 
